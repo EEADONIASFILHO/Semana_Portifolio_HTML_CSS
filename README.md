@@ -1,2 +1,2 @@
 # Semana_Portifolio_HTML_CSS
-Repositório que será usado para ir revendo e criando o Portfolio de Cada Aluno, a idéia é que utilizamos isto para capa do GITHUB do aluno...
+Repositório que foi fornecido para o cliente para que trabalhassemos nossos conhecimentos.
